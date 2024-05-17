@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#btnTao, #btnSaoChep {
+  padding: 10px 20px;
+  margin: 10px 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#btnTao {
+  background-color: #007bff;
+  color: white;
+}
+
+#btnSaoChep {
+  background-color: #28a745;
+  color: white;
+}
+
+#matKhau {
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 200px;
+  margin: 10px 0;
+}
